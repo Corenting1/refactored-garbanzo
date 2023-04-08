@@ -5,10 +5,6 @@
   Add your open source license, GitHub uses Creative Commons Attribution 4.0 International.
 -->
 
-# Introduction to GitHub
-
-_Get started using GitHub in less than an hour._
-
 <!-- 
   <<< Author notes: Start of the course >>> 
   Include start button, a note about Actions minutes,
@@ -19,7 +15,7 @@ _Get started using GitHub in less than an hour._
 -->
 
 <details id=0>
-<summary><h2>Welcome</h2></summary>
+<summary><h1>Welcome</h1></summary>
 
 People use GitHub to build some of the most advanced technologies in the world. Whether you’re visualizing data or building a new game, there’s a whole community and set of tools on GitHub that can help you do it even better. GitHub Skills’ “Introduction to GitHub” course guides you through everything you need to start contributing in less than an hour.
 
